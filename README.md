@@ -36,9 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiCHUTKO&theme=dark&hide_border=true" width="48%">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiCHUTKO&layout=compact&theme=dark&hide_border=true" width="42%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiCHUTKO&theme=github_dark" width="42%">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=LiCHUTKO&theme=darkhub&no-frame=true&column=4">
 </p>
 
 ---
