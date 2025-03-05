@@ -39,10 +39,10 @@
 ---
 
 ### 📌 Projekty  
-- 🔹 **AI do predykcji rynku kryptowalut** – LSTM + Transfer Learning 📈  
-- 🔹 **Analiza danych logistycznych i sprzedażowych**  
-- 🔹 **Systemy rekomendacji oparte na ML**  
-- 🔹 **Automatyzacja procesów w e-commerce**  
+- 🔹 **[Pneumonia Detection AI](https://github.com/LiCHUTKO/pneumonia-detection-ai)** – Model AI do wykrywania zapalenia płuc na podstawie zdjęć rentgenowskich  
+- 🔹 **[Heart Attack Analysis](https://github.com/LiCHUTKO/heart-attack-analisys)** – Analiza danych medycznych i predykcja ryzyka zawału serca  
+- 🔹 **[Projekt Predykcji Cukrzycy](https://github.com/LiCHUTKO/diabetes-prediction)** – Model ML przewidujący ryzyko cukrzycy na podstawie danych medycznych  
+- 🔹 **[ETH Prediction AI](https://github.com/LiCHUTKO/eth_prediction_ai)** – Model predykcji cen Ethereum na podstawie historycznych danych finansowych  
 
 📂 **Więcej w moich repozytoriach!**  
 
