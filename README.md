@@ -7,6 +7,7 @@
 - 🎓 **Student 3. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
 - 🤖 Tworzę modele **AI & ML** – szczególnie w analizie danych i rynków finansowych  
 - 💡 Pasjonuje mnie **Deep Learning, Data Science, Computer Vision**  
+- 🎥 **Tworzę filmiki i poradniki** na temat **AI, ML i analizy danych**  
 
 🛠 **Obecnie pracuję jako Trener Programowania (C++) w Giganci Programowania**  
 
@@ -51,6 +52,15 @@
 <p align="center">
   <a href="https://github.com/LiCHUTKO">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@l_ai_chu">
+    <img src="https://img.shields.io/badge/-TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@lAichu-d3n">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/l_ai_chu/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:kuba.liszewski5@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
