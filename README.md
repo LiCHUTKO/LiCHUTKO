@@ -1,12 +1,12 @@
 <h1 align="center">👋 Cześć, jestem [Twoje Imię]!</h1>
-<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Student Informatyki Stosowanej @UŚ Katowice</h3>
+<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Student Informatyki Stosowanej UŚ Katowice</h3>
 
 ---
 
 ### 🚀 O mnie  
 - 🎓 **Student 3. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
 - 🤖 Tworzę modele **AI & ML** – szczególnie w analizie danych i rynków finansowych  
-- 💡 Pasjonuje mnie **Deep Learning, NLP, Computer Vision**  
+- 💡 Pasjonuje mnie **Deep Learning, Data Science, Computer Vision**  
 - 🛠 **Główne technologie**: TensorFlow, Python, Pandas, NumPy, PyTorch  
 - 📌 Aktualnie pracuję nad **AI do predykcji rynku kryptowalut** 📈  
 
@@ -27,8 +27,8 @@
 
 ### 📈 Statystyki GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=LiCHUTKO&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiCHUTKO&theme=dark&hide_border=true" width="48%">
 </p>
 
 ---
