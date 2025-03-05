@@ -32,6 +32,8 @@
 
 ### 📈 Statystyki GitHub  
 <p align="center">
+  <img src="https://camo.githubusercontent.com/0c1ec16b90d269d4516a556cf109fd83907b8640f41dff292e506fec596f8f8e/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4c69434855544b4f267468656d653d676974687562">
+
   <img src="https://github-readme-stats.vercel.app/api?username=LiCHUTKO&show_icons=true&theme=dark&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiCHUTKO&theme=dark&hide_border=true" width="48%">
 </p>
