@@ -1,5 +1,5 @@
 <h1 align="center">👋 Cześć, jestem Jakub Liszewski!</h1>
-<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Informatyka Stosowana UŚ Katowice</h3>
+<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Informatyka Stosowana </h3>
 
 ---
 
