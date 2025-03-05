@@ -6,7 +6,7 @@
 ### 🚀 O mnie  
 - 🎓 **Student 3. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
 - 🤖 Tworzę modele **AI & ML** – szczególnie w analizie danych i rynków finansowych  
-- 💡 Pasjonuje mnie **Deep Learning, Data Science, Computer Vision**  
+- 💡 Pasjonuje mnie **Deep Learning, Data Science**  
 - 🎥 **Tworzę filmiki i poradniki** na temat **AI, ML i analizy danych**  
 
 🛠 **Obecnie pracuję jako Trener Programowania (C++) w Giganci Programowania**  
