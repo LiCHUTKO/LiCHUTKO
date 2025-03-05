@@ -68,5 +68,3 @@
 </p>
 
 ---
-
-⭐ **Jeśli podoba Ci się mój profil, zostaw ⭐ w moich repozytoriach!**  
