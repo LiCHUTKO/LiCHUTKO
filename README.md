@@ -11,7 +11,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiCHUTKO&show_icons=true&theme=dark)  
 
 ## 🌎 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
