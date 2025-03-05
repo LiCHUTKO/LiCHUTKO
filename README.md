@@ -1,14 +1,16 @@
-<h1 align="center">👋 Cześć, jestem [Twoje Imię]!</h1>
-<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Student Informatyki Stosowanej UŚ Katowice</h3>
+<h1 align="center">👋 Cześć, jestem Jakub Liszewski!</h1>
+<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Informatyka Stosowana @UŚ Katowice</h3>
 
 ---
 
 ### 🚀 O mnie  
 - 🎓 **Student 3. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
 - 🤖 Tworzę modele **AI & ML** – szczególnie w analizie danych i rynków finansowych  
-- 💡 Pasjonuje mnie **Deep Learning, Data Science, Computer Vision**  
-- 🛠 **Główne technologie**: TensorFlow, Python, Pandas, NumPy, PyTorch  
-- 📌 Aktualnie pracuję nad **AI do predykcji rynku kryptowalut** 📈  
+- 📊 Doświadczony w **analizie danych, bazach SQL i e-commerce**  
+- 💡 Pasjonuje mnie **Deep Learning, NLP, Computer Vision**  
+- 🏎️ Miłośnik **zabytkowej polskiej motoryzacji PRL-u**  
+
+🛠 **Obecnie pracuję jako Trener Programowania (Python, C++, C#) w Giganci Programowania**  
 
 ---
 
@@ -17,10 +19,12 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 ---
@@ -33,15 +37,25 @@
 
 ---
 
+### 📌 Projekty  
+- 🔹 **AI do predykcji rynku kryptowalut** – LSTM + Transfer Learning 📈  
+- 🔹 **Analiza danych logistycznych i sprzedażowych**  
+- 🔹 **Systemy rekomendacji oparte na ML**  
+- 🔹 **Automatyzacja procesów w e-commerce**  
+
+📂 **Więcej w moich repozytoriach!**  
+
+---
+
 ### 🌎 Gdzie mnie znaleźć?  
 <p align="center">
+  <a href="https://github.com/LiCHUTKO">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kuba.liszewski5@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
