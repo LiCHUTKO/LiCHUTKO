@@ -1,14 +1,12 @@
 <h1 align="center">👋 Cześć, jestem Jakub Liszewski!</h1>
-<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Informatyka Stosowana @UŚ Katowice</h3>
+<h3 align="center">🤖 AI & ML Enthusiast | 📊 Data Analyst | 🎓 Informatyka Stosowana UŚ Katowice</h3>
 
 ---
 
 ### 🚀 O mnie  
 - 🎓 **Student 3. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
 - 🤖 Tworzę modele **AI & ML** – szczególnie w analizie danych i rynków finansowych  
-- 📊 Doświadczony w **analizie danych, bazach SQL i e-commerce**  
-- 💡 Pasjonuje mnie **Deep Learning, NLP, Computer Vision**  
-- 🏎️ Miłośnik **zabytkowej polskiej motoryzacji PRL-u**  
+- 💡 Pasjonuje mnie **Deep Learning, Data Science, Computer Vision**  
 
 🛠 **Obecnie pracuję jako Trener Programowania (Python, C++, C#) w Giganci Programowania**  
 
