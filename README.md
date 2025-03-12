@@ -33,8 +33,6 @@
 ### 📈 Statystyki GitHub  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LiCHUTKO&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiCHUTKO&theme=dark&hide_border=true" width="48%">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiCHUTKO&layout=compact&theme=dark&hide_border=true" width="42%">
 </p>
 
