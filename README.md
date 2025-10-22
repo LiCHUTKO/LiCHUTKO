@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 O mnie  
-- 🎓 **Student 3. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
+- 🎓 **Student 4. roku Informatyki Stosowanej** na Uniwersytecie Śląskim w Katowicach  
 - 🤖 Tworzę modele **AI & ML** – szczególnie w analizie danych i rynków finansowych  
 - 💡 Pasjonuje mnie **Deep Learning, Data Science**  
 - 🎥 **Tworzę filmiki i poradniki** na temat **AI, ML i analizy danych**  
